@@ -10,7 +10,7 @@ Implemented algorithms:
 5) Quick sort.
 6) Heap sort.
 
-Features:
+# Features:
 1) Colored representation of step being executed.
   1.1) Blue:default
   1.2) Yellow: Being compared
